@@ -48,12 +48,6 @@ This is a simple password manager implemented in Python. It allows users to regi
 - Add error handling for user inputs.
 - Improve user interface and error messages.
 
-### License
-- This project is licensed under the MIT License. See `LICENSE` for more information.
-
-### Contributions
-- Contributions are welcome! Please fork the repository and submit a pull request.
-
-### Acknowledgments
-- Inspired by learning Python and the need for basic password management.
+### Learning Experience
+- This was inspired by learning Python and as well for the need to make a basic password manager.
 
